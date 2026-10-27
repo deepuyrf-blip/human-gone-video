@@ -1,0 +1,1230 @@
+{
+  "global_style": "Flat 2D hand-drawn explainer-cartoon illustration in a warm earthy palette - terracotta, sand, mustard, cream, olive and dusty brown. Bold uniform black outlines; minimalist stick-figure characters with large round heads, dot eyes and thin black limbs, wearing solid-colour t-shirts. Flat colour fills with very soft shading, a simple soft ground shadow under characters, clean uncluttered backgrounds (plain warm sand or a simple horizon). Rare simple infographic elements (charts, maps, chalkboards) in the same palette. No gradients, no glossy highlights, no photorealism.",
+  "aspect_ratio": "16:9",
+  "prompts": [
+    {
+      "scene_id": 1,
+      "narration_excerpt": "सोचो, कल सुबह उठकर तुम्हें पता चले",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) sits up on a simple bed in a plain sand-coloured bedroom, wide-eyed with one hand on his head, warm morning sunlight from a window, soft shadow under the bed. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 2,
+      "narration_excerpt": "कि धरती पर एक भी इंसान नहीं बचा।",
+      "prompt": "Cinematic 16:9 frame. Wide frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) stands at an open window looking out at a completely empty city street with no people at all, quiet rooftops under a pale warm sky. Bold hand-lettered English caption \"NO HUMANS LEFT\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 3,
+      "narration_excerpt": "न फोन की घंटी,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a silent smartphone lying on a bedside table with no ring lines around it. No characters, flat warm sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 4,
+      "narration_excerpt": "न चाय की भाप,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a plain tea cup on a saucer with an empty flat surface and no steam curls above it. No characters, flat warm cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 5,
+      "narration_excerpt": "न सड़क पर एक भी गाड़ी।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a long empty road with dashed centre lines running to a flat horizon under a mustard sky, no vehicles anywhere. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 6,
+      "narration_excerpt": "सबसे पहले क्या बंद होगा?",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) stands with a hand on his chin and a big thought cloud above him holding three small icons: a light bulb, a water tap and a gear, flat sand background. Bold hand-lettered English caption \"WHAT STOPS FIRST?\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 7,
+      "narration_excerpt": "बिजली?",
+      "prompt": "Cinematic 16:9 frame. Close-up of a light bulb switching off with a few short dimming lines around it. No characters, flat warm sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 8,
+      "narration_excerpt": "पानी?",
+      "prompt": "Cinematic 16:9 frame. Close-up of a water tap with one last drop hanging from its mouth. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 9,
+      "narration_excerpt": "या कुछ और?",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) shrugs with open palms while a big question mark floats above his head, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 10,
+      "narration_excerpt": "जवाब आपकी सोच से ज्यादा चौंकाने वाला है।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a small wooden box with its lid opening a little and bright mustard sparkles rising out of it. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 11,
+      "narration_excerpt": "चलिए, इंसानों के बिना",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) gives a friendly wave toward the viewer with a smile, flat warm sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 12,
+      "narration_excerpt": "इस दुनिया का सफर शुरू करते हैं।",
+      "prompt": "Cinematic 16:9 frame. Wide frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) walks away from the viewer along a long empty road toward a glowing horizon with distant hills, long soft ground shadow behind him. Bold hand-lettered English caption \"THE WORLD WITHOUT HUMANS\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 13,
+      "narration_excerpt": "इंसानों के गायब होते ही",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a big round clock face showing a full day with a shaded wedge of 24 hours, a tiny empty city skyline behind it. No characters, flat warm sand background. Bold hand-lettered English caption \"FIRST 24 HOURS\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 14,
+      "narration_excerpt": "सबसे पहले असर दिखाई देगा",
+      "prompt": "Cinematic 16:9 frame. Close-up of a bold arrow pointing at a gear icon and a car icon side by side. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 15,
+      "narration_excerpt": "हमारी मशीनों और परिवहन पर।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a busy factory with chimneys and a road with a train and buses all standing still and empty, no people. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 16,
+      "narration_excerpt": "सड़कों पर चलती कारें",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a straight road with several cartoon cars driving along by themselves with empty driver seats, small motion lines behind them. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 17,
+      "narration_excerpt": "बेकाबू होकर टकरा सकती हैं।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of two empty cartoon cars drifting off the lane and softly bumping into each other with small star puffs, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 18,
+      "narration_excerpt": "कुछ विमान ऑटोपायलट और दूसरे सिस्टम की मदद से",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a cartoon passenger plane gliding steadily across a calm sky with a small autopilot dial icon beside it. No characters, flat mustard sky. Bold hand-lettered English caption \"AUTOPILOT, FOR A WHILE\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 19,
+      "narration_excerpt": "कुछ समय तक उड़ सकते हैं,",
+      "prompt": "Cinematic 16:9 frame. Wide frame of the same plane high over a green landscape with a thin dotted line behind it showing its path, a small clock icon beside it. No characters, flat warm sky. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 20,
+      "narration_excerpt": "लेकिन बिना मानवीय सहायता के",
+      "prompt": "Cinematic 16:9 frame. Close-up of an empty pilot seat in a cockpit with a steering wheel and a few buttons, a soft glow from the dials. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 21,
+      "narration_excerpt": "कई उड़ानों का सुरक्षित अंत",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a plane slowly descending toward a distant flat plain with a dotted path ending in a question mark, nothing else around. No characters, flat sand sky. Bold hand-lettered English caption \"SAFE LANDING IS HARD\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 22,
+      "narration_excerpt": "मुश्किल हो जाएगा।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a runway with a bold red X over a small plane icon above it. No characters, flat grey-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 23,
+      "narration_excerpt": "बिजली व्यवस्था भी",
+      "prompt": "Cinematic 16:9 frame. Wide frame of tall electricity pylons with glowing lines marching across a green field at sunset. No characters, flat warm background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 24,
+      "narration_excerpt": "तुरंत हर जगह बंद नहीं होगी।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a city skyline with most windows still glowing and a small clock showing a few hours passed. No characters, flat dusk-sand background. Bold hand-lettered English caption \"NOT STOPPED INSTANTLY\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 25,
+      "narration_excerpt": "कुछ पावर प्लांट अपने आप चलते रह सकते हैं,",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a power plant with two chimneys and a spinning wind turbine beside it, a small green tick above the plant. No characters, flat sand background. Bold hand-lettered English caption \"SOME KEEP RUNNING\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 26,
+      "narration_excerpt": "जबकि कई सिस्टम",
+      "prompt": "Cinematic 16:9 frame. Close-up of a control panel with many small round switches, some glowing green and some already dim. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 27,
+      "narration_excerpt": "सुरक्षा के लिए बंद हो जाएंगे।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a big lever being pulled down by itself to the off position with a small shield icon beside it. No characters, flat terracotta background. Bold hand-lettered English caption \"MANY SHUT DOWN FOR SAFETY\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 28,
+      "narration_excerpt": "लेकिन असली समस्या बिजली का जाना नहीं,",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) points at a glowing light bulb with a bold red X crossing a small off-switch icon beside it, flat sand background. Bold hand-lettered English caption \"THE REAL PROBLEM\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 29,
+      "narration_excerpt": "बल्कि उसे लगातार बनाए रखने वाले",
+      "prompt": "Cinematic 16:9 frame. Close-up of an empty worker's chair beside a control desk with a hard hat and a toolbox on it. No characters, flat terracotta background. Bold hand-lettered English caption \"NO ONE TO KEEP IT RUNNING\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 30,
+      "narration_excerpt": "इंसानों का न होना होगा।",
+      "prompt": "Cinematic 16:9 frame. Close-up of the empty chair with a faint dotted outline of a seated stick figure on it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 31,
+      "narration_excerpt": "अस्पतालों में मशीनें",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a hospital building with a plus sign on its wall and a few windows glowing warmly, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 32,
+      "narration_excerpt": "कुछ समय तक चल सकती हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a hospital machine with a steady green pulse line and a small battery icon at the corner. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 33,
+      "narration_excerpt": "शहरों में पानी की सप्लाई भी",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a tall water tower beside a city with pipes drawn running under the streets. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 34,
+      "narration_excerpt": "कुछ वक्त जारी रह सकती है।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a water tap with a steady stream falling into a bucket and a small clock beside it. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 35,
+      "narration_excerpt": "मगर जब मरम्मत, निगरानी",
+      "prompt": "Cinematic 16:9 frame. Close-up of three icons in a row: a wrench, a monitor eye and a fuel can, each with a bold red X over it. No characters, flat terracotta background. Bold hand-lettered English caption \"NO REPAIR, NO WATCH, NO FUEL\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 36,
+      "narration_excerpt": "और ईंधन की आपूर्ति बंद होगी,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a fuel can with an empty gauge needle at the bottom. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 37,
+      "narration_excerpt": "तो ये सुविधाएं",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a city skyline with a row of lit windows and a few small utility icons floating above it. No characters, flat dusk-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 38,
+      "narration_excerpt": "धीरे-धीरे ठप पड़ने लगेंगी।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of the same skyline where the lit windows switch off one by one from left to right, flat dusk background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 39,
+      "narration_excerpt": "हमने अपनी दुनिया को इतना व्यवस्थित बना लिया है",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) stands in a neat modern living room full of tidy gadgets, lamp and tap, with a satisfied smile, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 40,
+      "narration_excerpt": "कि एक बटन दबाने पर रोशनी हो जाती है",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) presses a wall switch and a bright ceiling lamp lights up with soft rays, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 41,
+      "narration_excerpt": "और नल खोलने पर पानी आ जाता है।",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) turns a kitchen tap and a clear stream pours into a glass, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 42,
+      "narration_excerpt": "लेकिन इन आसान सुविधाओं के पीछे",
+      "prompt": "Cinematic 16:9 frame. Close-up of a wall switch and a tap with a thin curtain half-drawn behind them. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 43,
+      "narration_excerpt": "हजारों लोगों की मेहनत छिपी होती है।",
+      "prompt": "Cinematic 16:9 frame. Wide frame behind the curtain: hundreds of tiny stick-figure workers with hard hats, wrenches and cables keeping huge pipes and power lines running, flat sand background. Bold hand-lettered English caption \"THOUSANDS OF PEOPLE BEHIND IT\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 44,
+      "narration_excerpt": "और अब…",
+      "prompt": "Cinematic 16:9 frame. Close-up of a single empty worker's helmet resting on a bench, a thin ray of light on it. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 45,
+      "narration_excerpt": "उन सबकी जगह खाली है।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a long row of empty chairs and workbenches inside a quiet control room with softly glowing screens. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 46,
+      "narration_excerpt": "अब सोचो, कुछ दिन बीत चुके हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a wall calendar with a few pages flipping away and the last day circled in red. No characters, flat sand background. Bold hand-lettered English caption \"A FEW DAYS LATER\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 47,
+      "narration_excerpt": "सड़कों पर ट्रैफिक नहीं है।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a wide empty city road with a few parked cars and a traffic light changing colour by itself, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 48,
+      "narration_excerpt": "दुकानों के दरवाजे बंद हैं",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a row of shops with their shutters pulled down and a closed sign hanging on one door. No characters, flat terracotta and sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 49,
+      "narration_excerpt": "और ऊंची इमारतों की खिड़कियों में",
+      "prompt": "Cinematic 16:9 frame. Wide frame of tall apartment towers with rows of windows, flat terracotta sky. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 50,
+      "narration_excerpt": "रोशनी कम होती जा रही है।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of the same towers where only a few windows still glow weakly while most are dark, flat dusk-sand sky. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 51,
+      "narration_excerpt": "लेकिन शहर पूरी तरह निर्जीव नहीं होंगे।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a city street where a small bird sits on a lamp post and green leaves peek from a window box, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 52,
+      "narration_excerpt": "कुत्ते और बिल्लियां अपने मालिकों के बिना भटक सकते हैं।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a stick-style brown dog and a small cat walking side by side along an empty pavement, looking around puzzled, soft ground shadows, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 53,
+      "narration_excerpt": "कुछ जानवर भोजन खोजने के लिए",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a fox and a young deer stepping out from a park gate onto a quiet street at dawn, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 54,
+      "narration_excerpt": "सड़कों और खाली इमारतों में पहुंच जाएंगे।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a fox peeking into an open empty shop doorway with a fallen shelf of snacks, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 55,
+      "narration_excerpt": "शहरों के आसपास रहने वाले पक्षियों",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a flock of birds circling over rooftops and perching on a water tower, flat sand sky. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 56,
+      "narration_excerpt": "और दूसरे जीवों को",
+      "prompt": "Cinematic 16:9 frame. Close-up of a squirrel and a lizard sitting on a window ledge of a quiet building, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 57,
+      "narration_excerpt": "इंसानों की गैरमौजूदगी में",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an empty square with small birds hopping along the ground and a quiet fountain, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 58,
+      "narration_excerpt": "नए अवसर मिल सकते हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a bird building a nest on top of a traffic light with twigs, a small green tick beside it, flat sand background. Bold hand-lettered English caption \"NEW OPPORTUNITIES\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 59,
+      "narration_excerpt": "हालांकि, हर जानवर",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a mix of animals walking in a quiet street, a thin dotted line around one small dog that looks left behind, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 60,
+      "narration_excerpt": "आसानी से जीवित नहीं रहेगा।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a small dog standing at the door of a closed house looking sadly toward the handle, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 61,
+      "narration_excerpt": "इंसानों पर निर्भर पालतू जानवरों को",
+      "prompt": "Cinematic 16:9 frame. Close-up of an empty pet food bowl and an empty water bowl side by side on a doorstep. No characters, flat sand background. Bold hand-lettered English caption \"PETS NEED HUMANS\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 62,
+      "narration_excerpt": "भोजन और पानी की कमी का",
+      "prompt": "Cinematic 16:9 frame. Close-up of a dry water bowl with a cracked bottom and a faint outline of a drop above it. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 63,
+      "narration_excerpt": "सामना करना पड़ सकता है।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a cat sitting beside the empty bowls with a worried look, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 64,
+      "narration_excerpt": "कुछ जगहों पर घास",
+      "prompt": "Cinematic 16:9 frame. Close-up of small green grass shoots poking up from a thin crack in grey pavement. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 65,
+      "narration_excerpt": "फुटपाथों की दरारों से बाहर निकलने लगेगी।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a long pavement with many cracks sprouting little green tufts along its lines, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 66,
+      "narration_excerpt": "बीज हवा और बारिश के साथ",
+      "prompt": "Cinematic 16:9 frame. Close-up of tiny seeds with fluffy tufts floating on wind lines beside a few raindrops. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 67,
+      "narration_excerpt": "खाली जमीन पर फैलेंगे।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an empty lot where small plants are spreading in patches across plain soil, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 68,
+      "narration_excerpt": "लेकिन जंगल एक रात में",
+      "prompt": "Cinematic 16:9 frame. Wide frame comparing a thick forest on the left and a city on the right with a moon above and a bold red X over the forest swallowing the city, flat sand background. No characters. Bold hand-lettered English caption \"NOT OVERNIGHT\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 69,
+      "narration_excerpt": "शहरों को निगल नहीं जाएंगे।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a city with only a few small patches of green beside its buildings, flat terracotta sky. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 70,
+      "narration_excerpt": "प्रकृति को बड़े बदलाव लाने में",
+      "prompt": "Cinematic 16:9 frame. Close-up of a hand-drawn hourglass with sand slowly falling and a tiny sprout growing beside it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 71,
+      "narration_excerpt": "समय लगेगा।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a round clock face with a small plant growing out of its top, flat cream background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 72,
+      "narration_excerpt": "और इस कहानी का अगला हिस्सा",
+      "prompt": "Cinematic 16:9 frame. Close-up of a stage curtain pulled open halfway in a warm spotlight. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 73,
+      "narration_excerpt": "कहीं ज्यादा दिलचस्प है।",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) leans in with a curious smile and wide eyes, a small star burst beside his head, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 74,
+      "narration_excerpt": "इंसान के बिना सबसे बड़ी चुनौती",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a big blue water drop standing in the middle of a quiet city with a bold arrow pointing at it, flat terracotta sky. No characters. Bold hand-lettered English caption \"BIGGEST CHALLENGE: WATER\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 75,
+      "narration_excerpt": "होगी पानी।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a single large water drop with a small question cloud floating above it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 76,
+      "narration_excerpt": "शहरों में पानी पहुंचाने के लिए",
+      "prompt": "Cinematic 16:9 frame. Wide diagram frame: a water pump connected by pipes to a row of houses, with a power plug icon and a wrench icon connected to the pump, flat sand background. No characters. Small hand-lettered English labels in clean dark-brown block capitals reading \"PUMP\", \"PIPES\", \"POWER\", \"MAINTENANCE\", each placed next to its matching item, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 77,
+      "narration_excerpt": "पंप, पाइप, बिजली",
+      "prompt": "Cinematic 16:9 frame. Close-up of a water pump, a pipe and a power plug lined up in a row with small connecting dots. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 78,
+      "narration_excerpt": "और लगातार रखरखाव की जरूरत होती है।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a wrench and a clipboard with a checklist beside a pipe joint. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 79,
+      "narration_excerpt": "जब ये सिस्टम खराब होने लगेंगे,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a pump with a loose bolt and a thin crack with a drip leaking from a pipe. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 80,
+      "narration_excerpt": "तो कुछ इमारतों के बेसमेंट",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a stairway leading down into a dim basement with puddles on the floor. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 81,
+      "narration_excerpt": "और भूमिगत रास्तों में",
+      "prompt": "Cinematic 16:9 frame. Medium frame of an underground road tunnel with shallow water on the ground and tiny ripples. No characters, flat grey-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 82,
+      "narration_excerpt": "पानी भर सकता है।",
+      "prompt": "Cinematic 16:9 frame. Wide cross-section frame of a building with a basement and a tunnel below it filling with light-blue water up to a marked level line. No characters, flat sand background. Bold hand-lettered English caption \"WATER FILLS LOW PLACES\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 83,
+      "narration_excerpt": "जहां पंप काम करना बंद कर देंगे,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a silent water pump with a red off-light and a thin web hanging from its handle. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 84,
+      "narration_excerpt": "वहां बारिश और भूजल",
+      "prompt": "Cinematic 16:9 frame. Wide frame of grey rain clouds over a city with small arrows showing water rising from the ground below, flat grey-sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 85,
+      "narration_excerpt": "इमारतों को नुकसान पहुंचा सकते हैं।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a building base with thin cracks and damp patches where rain and ground water seep in, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 86,
+      "narration_excerpt": "बिजली के बिना",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a dark city block at night with every window and street lamp switched off under a few stars. No characters, flat dark-brown background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 87,
+      "narration_excerpt": "कई आधुनिक सुविधाएं बेकार हो जाएंगी।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a row of dead gadgets: a TV, a laptop and a washing machine, all with blank screens and no light. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 88,
+      "narration_excerpt": "लिफ्ट रुक जाएंगी,",
+      "prompt": "Cinematic 16:9 frame. Close-up of an elevator door stuck half open with an empty cab and a dim floor display. No characters, flat terracotta background. Bold hand-lettered English caption \"LIFTS STOP\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 89,
+      "narration_excerpt": "संचार नेटवर्क धीरे-धीरे बंद हो सकते हैं",
+      "prompt": "Cinematic 16:9 frame. Close-up of a phone tower with signal waves fading from strong to weak and a small bar icon dropping to one line. No characters, flat sand background. Bold hand-lettered English caption \"SIGNAL FADES\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 90,
+      "narration_excerpt": "और ठंडा रखने की व्यवस्था खत्म होने से",
+      "prompt": "Cinematic 16:9 frame. Close-up of a big warehouse cooling unit with a stopped fan and a thermometer rising slowly. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 91,
+      "narration_excerpt": "गोदामों में रखा भोजन खराब होने लगेगा।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of stacked food crates in a warehouse with tiny green mould dots on the fruit and a little fly above them. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 92,
+      "narration_excerpt": "लेकिन क्या इसका मतलब है",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) stands thoughtfully in front of a quiet city skyline with a small question cloud above his head, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 93,
+      "narration_excerpt": "कि हमारी बनाई हर चीज मिट जाएगी?",
+      "prompt": "Cinematic 16:9 frame. Close-up of a small cartoon city floating in a thought bubble with a big question mark beside it. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 94,
+      "narration_excerpt": "नहीं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a big bold red X crossing out a faded pile of rubble, a strong stone arch standing in the background. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 95,
+      "narration_excerpt": "पत्थर की इमारतें, कुछ पुल",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an old stone building and a stone arch bridge over a calm river in warm afternoon light. No characters, flat sand background. Bold hand-lettered English caption \"STONE LASTS DECADES\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 96,
+      "narration_excerpt": "और विशाल संरचनाएं",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a huge concrete dam wall holding back a calm lake with tall cliffs on both sides. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 97,
+      "narration_excerpt": "कई दशकों तक खड़ी रह सकती हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a big stone block with a long timeline of small calendar pages stacked beside it. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 98,
+      "narration_excerpt": "उनकी उम्र इस बात पर निर्भर करेगी",
+      "prompt": "Cinematic 16:9 frame. Close-up of a ruler measuring the height of a wall with small age marks along it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 99,
+      "narration_excerpt": "कि वे किस सामग्री से बनी हैं,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a stack of bricks and a stone block and a wooden beam side by side. No characters, flat sand background. Bold hand-lettered English caption \"MATERIAL\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 100,
+      "narration_excerpt": "मौसम कैसा है",
+      "prompt": "Cinematic 16:9 frame. Close-up of a small cloud with rain on one side and sun on the other. No characters, flat cream background. Bold hand-lettered English caption \"WEATHER\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 101,
+      "narration_excerpt": "और पानी उन्हें कितना नुकसान पहुंचाता है।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a stone wall with a long damp water stain and small cracks beneath a leaking pipe. No characters, flat sand background. Bold hand-lettered English caption \"WATER DAMAGE\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 102,
+      "narration_excerpt": "यानी इंसानों के गायब होते ही",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a city skyline at sunrise with every building still standing and a golden sun above. No characters, flat warm background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 103,
+      "narration_excerpt": "हमारी दुनिया खत्म नहीं होगी।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of the same skyline at midday looking calm and complete, a few small birds flying across. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 104,
+      "narration_excerpt": "बल्कि हमारी बनाई दुनिया की",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a tall ladder and a toolbox leaning against a wall of a quiet building. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 105,
+      "narration_excerpt": "देखभाल करने वाला कोई नहीं बचेगा।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an empty street with a paintbrush, a bucket and a ladder left on the ground beside a peeling wall and a single stray leaf blowing past. No characters, flat sand background. Bold hand-lettered English caption \"NO ONE LEFT TO CARE FOR IT\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 106,
+      "narration_excerpt": "अब कई साल गुजर चुके हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a thick stack of calendar pages and a large number of days crossed off, a small plant growing beside them. No characters, flat sand background. Bold hand-lettered English caption \"MANY YEARS LATER\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 107,
+      "narration_excerpt": "कुछ इलाकों में पेड़-पौधे",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a wide empty road where small trees and bushes are starting to grow on the edges. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 108,
+      "narration_excerpt": "खाली सड़कों और इमारतों के आसपास",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a quiet street with vines climbing the walls of low buildings and plants growing along the road. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 109,
+      "narration_excerpt": "फैलने लगे हैं।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a green city street where leaves and branches cover half of the buildings and road. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 110,
+      "narration_excerpt": "बारिश, हवा, तापमान में बदलाव",
+      "prompt": "Cinematic 16:9 frame. Close-up of four small weather icons in a row: rain, wind, hot sun and cold snowflake over a cracked road. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 111,
+      "narration_excerpt": "और जड़ों के असर से",
+      "prompt": "Cinematic 16:9 frame. Close-up cross-section of a road with a tree root pushing up from under the surface and splitting the road. No characters, flat terracotta background. Bold hand-lettered English caption \"ROOTS CRACK THE ROAD\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 112,
+      "narration_excerpt": "सड़कों में दरारें बढ़ सकती हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a long zig-zag crack across a grey road with small weeds growing along it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 113,
+      "narration_excerpt": "लोहे में जंग लगेगी।",
+      "prompt": "Cinematic 16:9 frame. Close-up of an old iron bridge railing covered with orange rust patches and flaking paint. No characters, flat sand background. Bold hand-lettered English caption \"IRON RUSTS\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 114,
+      "narration_excerpt": "लकड़ी सड़ेगी।",
+      "prompt": "Cinematic 16:9 frame. Close-up of an old wooden door with green moss and dark rotten patches on its planks. No characters, flat terracotta background. Bold hand-lettered English caption \"WOOD ROTS\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 115,
+      "narration_excerpt": "कई इमारतों की छतें",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an old building whose roof tiles are sagging and sprouting moss, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 116,
+      "narration_excerpt": "और कमजोर हिस्से टूटने लगेंगे।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a building with a corner of its roof and one wall partly broken and covered with vines. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 117,
+      "narration_excerpt": "जहां पहले इंसान",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a group of stick-figure workers with hard hats and saws clearing a patch of trees to make room for a road, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 118,
+      "narration_excerpt": "हर पेड़ को काटकर",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a long row of cut tree stumps on cleared ground beside a new road. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 119,
+      "narration_excerpt": "जगह साफ करते थे,",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a wide cleared flat plot with straight lines and a small signboard stake. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 120,
+      "narration_excerpt": "वहां अब वनस्पति को",
+      "prompt": "Cinematic 16:9 frame. Wide frame of the same plot now covered with grass and bushes in the foreground, flat olive-sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 121,
+      "narration_excerpt": "फैलने का मौका मिलेगा।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of the same plot filled with tall green plants and young trees under a bright sky. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 122,
+      "narration_excerpt": "कुछ जंगली जानवर उन इलाकों में लौट सकते हैं,",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a deer and a fox walking toward the edge of a green town from a distant forest, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 123,
+      "narration_excerpt": "जहां पहले इंसानी गतिविधियों के कारण",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a busy road with machines and a fenced area on the left, a small animal looking at it from the grass, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 124,
+      "narration_excerpt": "उनका रहना मुश्किल था।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an empty green road where a deer family now crosses calmly, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 125,
+      "narration_excerpt": "लेकिन हर जगह घना जंगल नहीं उगेगा।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a map-like landscape with a thick forest patch on one side and a plain open area on the other, a small red X over a forest covering everything. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 126,
+      "narration_excerpt": "रेगिस्तान, बर्फीले इलाके",
+      "prompt": "Cinematic 16:9 frame. Wide three-panel frame: a sandy desert with a cactus, a snowy field with a pine tree and a green grassland with a few flowers. No characters, flat sand background. Small hand-lettered English labels in clean dark-brown block capitals reading \"DESERT\", \"SNOW\", \"GRASSLAND\", each placed next to its matching item, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 127,
+      "narration_excerpt": "और प्राकृतिक रूप से घास के मैदान रहने वाले क्षेत्र",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a huge grassland with golden grass waving under a big sky and a few tiny birds. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 128,
+      "narration_excerpt": "अपनी अलग पहचान बनाए रखेंगे।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of three different landscapes side by side separated by thin lines, each keeping its own colour. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 129,
+      "narration_excerpt": "धरती का भविष्य",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a simple Earth globe floating over a calm sky with soft clouds around it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 130,
+      "narration_excerpt": "हर जगह एक जैसा नहीं होगा।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an Earth globe whose regions are coloured differently in green, sand, white and blue, flat sand background. No characters. Bold hand-lettered English caption \"NOT THE SAME EVERYWHERE\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 131,
+      "narration_excerpt": "और यहां एक बड़ा सवाल पैदा होता है—",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) scratches his head under a big question cloud with a thoughtful face, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 132,
+      "narration_excerpt": "क्या इंसान के गायब होने से",
+      "prompt": "Cinematic 16:9 frame. Close-up of a balance scale with a green leaf on one side and a question cloud on the other. No characters, flat terracotta background. Bold hand-lettered English caption \"INSTANT BENEFIT FOR NATURE?\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 133,
+      "narration_excerpt": "प्रकृति को तुरंत फायदा होगा?",
+      "prompt": "Cinematic 16:9 frame. Close-up of a small flower sprouting beside a clock with its hand racing forward. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 134,
+      "narration_excerpt": "कुछ मायनों में हां,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a bright green tick over a leafy branch. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 135,
+      "narration_excerpt": "क्योंकि शिकार, प्रदूषण",
+      "prompt": "Cinematic 16:9 frame. Close-up of a chimney with a thin faint line of smoke and a small down arrow, flat sand background. No characters. Bold hand-lettered English caption \"LESS POLLUTION\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 136,
+      "narration_excerpt": "और जमीन पर मानवीय दबाव कम हो जाएंगे।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a parked bulldozer with a small down arrow and green grass growing around its wheels. No characters, flat terracotta background. Bold hand-lettered English caption \"LESS LAND PRESSURE\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 137,
+      "narration_excerpt": "लेकिन इंसानों पर निर्भर कुछ जानवरों",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a cow and a small dog standing near an empty barn with its door wide open, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 138,
+      "narration_excerpt": "और उन प्रजातियों के लिए स्थिति मुश्किल होगी,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a small potted rare plant inside a glass greenhouse with a cracked pane and a dry watering can beside it. No characters, flat sand background. Bold hand-lettered English caption \"SOME NEED OUR CARE\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 139,
+      "narration_excerpt": "जिनका अस्तित्व हमारी देखभाल से जुड़ा है।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a gentle open hand shape holding a small green sprout with a thin line connecting it to a heart icon. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 140,
+      "narration_excerpt": "प्रकृति की कहानी इतनी आसान नहीं है",
+      "prompt": "Cinematic 16:9 frame. Medium frame of a simple balance scale with a leaf on one side and a gear on the other, a small tangled knot of lines between them. No characters, flat terracotta background. Bold hand-lettered English caption \"NOT SO SIMPLE\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 141,
+      "narration_excerpt": "कि इंसान के जाते ही",
+      "prompt": "Cinematic 16:9 frame. Close-up of a stick-figure silhouette walking out of a doorway with a small sun behind it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 142,
+      "narration_excerpt": "हर चीज बेहतर हो जाए।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a thumbs-up icon with a bold red X over it and a few small question clouds around it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 143,
+      "narration_excerpt": "हजारों साल बीत चुके हैं।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a very long timeline with many sun and moon symbols along it fading into the distance. No characters, flat sand background. Bold hand-lettered English caption \"THOUSANDS OF YEARS LATER\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 144,
+      "narration_excerpt": "ज्यादातर आधुनिक इमारतें",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a ruined skyline of tall buildings with missing walls and trees growing on their sides. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 145,
+      "narration_excerpt": "टूट चुकी होंगी",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a fallen tower and a broken wall lying in tall grass in warm light. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 146,
+      "narration_excerpt": "या प्रकृति और मौसम से",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a building half covered with vines and roots under rain and sun symbols. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 147,
+      "narration_excerpt": "बहुत बदल गई होंगी।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a hill covered with green shapes that once were buildings, only a corner of a wall showing. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 148,
+      "narration_excerpt": "कुछ विशाल पत्थर की संरचनाएं",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a huge ancient stone pyramid and a large stone arch standing in a quiet green valley. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 149,
+      "narration_excerpt": "और जमीन के नीचे मौजूद चीजें",
+      "prompt": "Cinematic 16:9 frame. Wide cross-section frame of the ground showing a green top layer and underground tunnels and pipes below, each drawn clearly, flat terracotta background. No characters. Bold hand-lettered English caption \"STONE + UNDERGROUND LAST LONGER\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 150,
+      "narration_excerpt": "इससे कहीं ज्यादा समय तक बच सकती हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of an old stone wall with a timeline of calendar pages stacked beside it, longer than before. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 151,
+      "narration_excerpt": "प्लास्टिक के अवशेष,",
+      "prompt": "Cinematic 16:9 frame. Close-up of colourful plastic bottle pieces mixed in a layer of soil. No characters, flat terracotta background. Bold hand-lettered English caption \"PLASTIC REMAINS\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 152,
+      "narration_excerpt": "कुछ धातुएं",
+      "prompt": "Cinematic 16:9 frame. Close-up of old rusted metal pieces and a bent steel rod half buried in soil. No characters, flat terracotta background. Bold hand-lettered English caption \"METALS REMAIN\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 153,
+      "narration_excerpt": "और दूसरे कृत्रिम पदार्थ भी",
+      "prompt": "Cinematic 16:9 frame. Close-up of small man-made objects like a cup, a button and a wire in a layer of earth. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 154,
+      "narration_excerpt": "अलग-अलग रूपों में",
+      "prompt": "Cinematic 16:9 frame. Close-up of the same plastic piece shown in three steps of getting smaller and more broken from left to right. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 155,
+      "narration_excerpt": "पर्यावरण में लंबे समय तक मौजूद रह सकते हैं।",
+      "prompt": "Cinematic 16:9 frame. Wide cross-section frame of layered earth with small man-made pieces visible in the deeper layers and a long timeline bar beside it. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 156,
+      "narration_excerpt": "यानी इंसान गायब हो जाए,",
+      "prompt": "Cinematic 16:9 frame. Close-up of a stick-figure outline disappearing from a doorway with a few faint sparkles left behind. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 157,
+      "narration_excerpt": "तब भी उसका बनाया हर निशान",
+      "prompt": "Cinematic 16:9 frame. Close-up of a clear footprint pressed into stone with a small magnifying glass above it. No characters, flat terracotta background. Bold hand-lettered English caption \"TRACES STAY\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 158,
+      "narration_excerpt": "तुरंत गायब नहीं होगा।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a footprint in stone that slowly fades across three steps from clear to very faint, flat sand background. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 159,
+      "narration_excerpt": "धरती पर इंसानों के बिना भी",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a lush green valley with a river and distant mountains and no buildings. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 160,
+      "narration_excerpt": "जीवन चलता रहेगा।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of birds, deer and butterflies moving through a green valley under a bright sun, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 161,
+      "narration_excerpt": "जीव अपने वातावरण के अनुसार बदलते रहेंगे",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a small bird with a longer beak and another bird with a shorter beak feeding on different flowers, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 162,
+      "narration_excerpt": "और नई परिस्थितियों में",
+      "prompt": "Cinematic 16:9 frame. Close-up of a small lizard on a rock with a sun on one side and snow on the other, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 163,
+      "narration_excerpt": "कुछ प्रजातियां फलेंगी-फूलेंगी,",
+      "prompt": "Cinematic 16:9 frame. Close-up of many small birds and flowers filling a branch with a green upward arrow, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 164,
+      "narration_excerpt": "जबकि दूसरी घट सकती हैं।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a few animals shrinking in number across three steps with a small red downward arrow, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, complex backgrounds."
+    },
+    {
+      "scene_id": 165,
+      "narration_excerpt": "लेकिन हमें यह नहीं पता",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a long road disappearing into soft mist on a flat sand horizon. No characters. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 166,
+      "narration_excerpt": "कि हजारों या लाखों साल बाद",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a timeline fading into mist with a big question cloud at its far end. No characters, flat sand background. Bold hand-lettered English caption \"FUTURE: UNKNOWN\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 167,
+      "narration_excerpt": "धरती पर जीवन का स्वरूप",
+      "prompt": "Cinematic 16:9 frame. Wide frame of Earth in the middle with several faint dotted shapes of unknown creatures around it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 168,
+      "narration_excerpt": "बिल्कुल कैसा होगा।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a closed mystery box with a question mark on its lid. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 169,
+      "narration_excerpt": "इतना लंबा भविष्य",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a very long road stretching through changing weather like snow, sun and rain to a faint horizon. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 170,
+      "narration_excerpt": "कई प्राकृतिक बदलावों पर निर्भर करेगा।",
+      "prompt": "Cinematic 16:9 frame. Close-up of four small nature icons in a row: a volcano, a storm cloud, a snowflake and a sun, linked by thin lines. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 171,
+      "narration_excerpt": "अब एक बार फिर",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) sits with eyes shut as curved lines and a soft dream cloud rising above his head, flat warm sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 172,
+      "narration_excerpt": "अपनी दुनिया की कल्पना करो।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a dream cloud with a tiny picture of the whole Earth floating inside it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 173,
+      "narration_excerpt": "सुबह उठकर फोन देखने वाला कोई नहीं।",
+      "prompt": "Cinematic 16:9 frame. Medium frame of an empty bed with a crumpled blanket and a phone lying silent on the pillow. No characters, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 174,
+      "narration_excerpt": "स्कूल जाने वाले बच्चे नहीं।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an empty school gate with a bell and a path leading in, no children. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 175,
+      "narration_excerpt": "खेतों में काम करते किसान नहीं।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a green farm field with a plough and a hoe resting in the soil, no farmers. No characters, flat olive-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 176,
+      "narration_excerpt": "शहरों में दौड़ती गाड़ियां नहीं।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of an empty wide highway with dashed lane lines stretching into the distance. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 177,
+      "narration_excerpt": "लेकिन सूरज फिर भी उगेगा।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a golden sun rising behind soft green hills with long gentle rays. No characters, flat warm sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 178,
+      "narration_excerpt": "बारिश फिर भी होगी।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of grey rain clouds over a quiet green field with falling drops. No characters, flat grey-sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 179,
+      "narration_excerpt": "नदियां बहती रहेंगी",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a winding river flowing through green banks to a flat horizon. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 180,
+      "narration_excerpt": "और पेड़ बढ़ते रहेंगे।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a tree shown at three growth stages from sapling to tall tree under a bright sky. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 181,
+      "narration_excerpt": "धरती को इंसानों की जरूरत नहीं है",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a cheerful Earth globe spinning in space with a calm smile and a few small stars around it. No characters, flat terracotta background. Bold hand-lettered English caption \"EARTH DOESN'T NEED US TO EXIST\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 182,
+      "narration_excerpt": "ताकि वह एक ग्रह के रूप में मौजूद रह सके।",
+      "prompt": "Cinematic 16:9 frame. Close-up of Earth floating alone with soft orbit lines around it. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 183,
+      "narration_excerpt": "लेकिन इंसानों की बनाई दुनिया को",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a city with big gear icons turning above it and a ring of small stick-figure icons holding hands around it, flat sand background. No characters. Bold hand-lettered English caption \"OUR WORLD NEEDS US\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 184,
+      "narration_excerpt": "चलाए रखने के लिए",
+      "prompt": "Cinematic 16:9 frame. Close-up of a big gear with a small hand turning its handle. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 185,
+      "narration_excerpt": "इंसानों की जरूरत जरूर है।",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) holds up a wrench to the viewer with a proud smile beside a small city model, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 186,
+      "narration_excerpt": "हम अक्सर सोचते हैं",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) puts his hands on his hips with a confident grin, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 187,
+      "narration_excerpt": "कि हम प्रकृति को नियंत्रित करते हैं।",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) holds a giant TV remote pointing at a sun and a cloud as if controlling them, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 188,
+      "narration_excerpt": "मगर हमारी सभ्यता",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a big web of lines connecting a tall city in the middle, flat terracotta background. No characters. Bold hand-lettered English caption \"A COMPLEX WEB\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 189,
+      "narration_excerpt": "बिजली, पानी, खेती, परिवहन",
+      "prompt": "Cinematic 16:9 frame. Close-up of four icons in a row: a bolt, a water drop, a wheat stalk and a truck, connected by thin lines. No characters, flat sand background. Small hand-lettered English labels in clean dark-brown block capitals reading \"POWER\", \"WATER\", \"FARMING\", \"TRANSPORT\", each placed next to its matching item, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 190,
+      "narration_excerpt": "और अनगिनत व्यवस्थाओं के",
+      "prompt": "Cinematic 16:9 frame. Close-up of dozens of small icons connected by thin lines forming a dense network. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 191,
+      "narration_excerpt": "एक जटिल जाल पर टिकी है।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a city balanced on top of a delicate web of thin threads. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 192,
+      "narration_excerpt": "शायद इस कहानी का सबसे बड़ा रहस्य यह नहीं",
+      "prompt": "Cinematic 16:9 frame. Close-up of a closed wooden box with a bold red X over a tiny Earth icon on its lid. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 193,
+      "narration_excerpt": "कि इंसानों के बिना",
+      "prompt": "Cinematic 16:9 frame. Close-up of an empty chair on a quiet porch looking over a green valley. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 194,
+      "narration_excerpt": "धरती का क्या होगा…",
+      "prompt": "Cinematic 16:9 frame. Wide frame of Earth floating in space with a small green sprout on its surface. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 195,
+      "narration_excerpt": "बल्कि यह है कि",
+      "prompt": "Cinematic 16:9 frame. Close-up of a bright arrow turning to point at a tiny stick figure. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 196,
+      "narration_excerpt": "हम जिस दुनिया को अपना समझते हैं,",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) holds a small globe in both hands with a proud smile, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 197,
+      "narration_excerpt": "उसमें हमारा अस्तित्व",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a tiny city on a thin thread hanging beneath a big sky. No characters, flat terracotta background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 198,
+      "narration_excerpt": "कितना नाजुक है।",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a delicate glass globe with a small city inside balancing on a very thin thread, a few tiny cracks showing. No characters, flat sand background. Bold hand-lettered English caption \"HOW FRAGILE WE ARE\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 199,
+      "narration_excerpt": "और अब तुम बताओ,",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) points toward the viewer with a friendly smile, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 200,
+      "narration_excerpt": "अगर कल सुबह",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) sleeps in bed with a sunrise shining through the window, flat cream background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 201,
+      "narration_excerpt": "पूरी दुनिया से इंसान गायब हो जाएं,",
+      "prompt": "Cinematic 16:9 frame. Wide frame of a quiet empty city park with benches and a swing swaying slightly, no people. No characters, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, characters, complex backgrounds."
+    },
+    {
+      "scene_id": 202,
+      "narration_excerpt": "तो तुम्हें सबसे पहले",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) thinks with a hand on his chin and a thought cloud forming above him, flat sand background. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 203,
+      "narration_excerpt": "किस चीज की कमी महसूस होगी?",
+      "prompt": "Cinematic 16:9 frame. Medium frame: a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) looks up at a thought cloud holding a tea cup, a phone and two friends waving, flat sand background. Bold hand-lettered English caption \"WHAT WOULD YOU MISS FIRST?\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, other characters, complex backgrounds."
+    },
+    {
+      "scene_id": 204,
+      "narration_excerpt": "कमेंट में जरूर बताना।",
+      "prompt": "Cinematic 16:9 frame. Close-up of a minimalist stick-figure man (large round head with a few spiky hairs, two dot eyes, simple curved mouth, thin black stick limbs, red t-shirt and dark trousers) pointing toward the viewer with a smile and a small speech bubble beside him, flat sand background. Bold hand-lettered English caption \"COMMENT BELOW\" in clean dark-brown block capitals at the top of the frame, spelled exactly as written. Flat warm sand and terracotta palette, bold black outlines, soft ground shadow, clean uncluttered composition.",
+      "negative_prompt": "3D, photorealistic, vector-clean, gradients, glossy highlights, harsh shadows, misspelled text, gibberish letters, extra text, watermark, UI elements, other characters, complex backgrounds."
+    }
+  ]
+}

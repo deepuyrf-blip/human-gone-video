@@ -1,0 +1,1228 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration_excerpt": "सोचो, कल सुबह उठकर तुम्हें पता चले",
+      "duration_sec": 2.3,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 2.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 2,
+      "narration_excerpt": "कि धरती पर एक भी इंसान नहीं बचा।",
+      "duration_sec": 2.1,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the plants grow a tiny bit; the character blinks and tilts the head very slightly; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 3,
+      "narration_excerpt": "न फोन की घंटी,",
+      "duration_sec": 1.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 4,
+      "narration_excerpt": "न चाय की भाप,",
+      "duration_sec": 1.0,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 5,
+      "narration_excerpt": "न सड़क पर एक भी गाड़ी।",
+      "duration_sec": 1.5,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 6,
+      "narration_excerpt": "सबसे पहले क्या बंद होगा?",
+      "duration_sec": 1.7,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; clouds drift slowly; water ripples gently; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 7,
+      "narration_excerpt": "बिजली?",
+      "duration_sec": 0.8,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; lights flicker softly; everything else holds still. Hold about 0.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 8,
+      "narration_excerpt": "पानी?",
+      "duration_sec": 0.8,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; everything else holds still. Hold about 0.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 9,
+      "narration_excerpt": "या कुछ और?",
+      "duration_sec": 0.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 0.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 10,
+      "narration_excerpt": "जवाब आपकी सोच से ज्यादा चौंकाने वाला है।",
+      "duration_sec": 2.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; sparkles twinkle softly; everything else holds still. Hold about 2.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 11,
+      "narration_excerpt": "चलिए, इंसानों के बिना",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the raised hand waves slightly; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 12,
+      "narration_excerpt": "इस दुनिया का सफर शुरू करते हैं।",
+      "duration_sec": 2.1,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the walking figure keeps a gentle walking bob; sparkles twinkle softly; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 13,
+      "narration_excerpt": "इंसानों के गायब होते ही",
+      "duration_sec": 1.7,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; clock hands tick forward slowly; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 14,
+      "narration_excerpt": "सबसे पहले असर दिखाई देगा",
+      "duration_sec": 1.8,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; vehicles drift slowly along the road; everything else holds still. Hold about 1.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 15,
+      "narration_excerpt": "हमारी मशीनों और परिवहन पर।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; thin smoke curls upward; vehicles drift slowly along the road; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 16,
+      "narration_excerpt": "सड़कों पर चलती कारें",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; vehicles drift slowly along the road; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 17,
+      "narration_excerpt": "बेकाबू होकर टकरा सकती हैं।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; vehicles drift slowly along the road; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 18,
+      "narration_excerpt": "कुछ विमान ऑटोपायलट और दूसरे सिस्टम की मदद से",
+      "duration_sec": 2.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 2.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 19,
+      "narration_excerpt": "कुछ समय तक उड़ सकते हैं,",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; clock hands tick forward slowly; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 20,
+      "narration_excerpt": "लेकिन बिना मानवीय सहायता के",
+      "duration_sec": 2.0,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; sparkles twinkle softly; everything else holds still. Hold about 2.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 21,
+      "narration_excerpt": "कई उड़ानों का सुरक्षित अंत",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 22,
+      "narration_excerpt": "मुश्किल हो जाएगा।",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 23,
+      "narration_excerpt": "बिजली व्यवस्था भी",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; sparkles twinkle softly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 24,
+      "narration_excerpt": "तुरंत हर जगह बंद नहीं होगी।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; clock hands tick forward slowly; lights flicker softly; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 25,
+      "narration_excerpt": "कुछ पावर प्लांट अपने आप चलते रह सकते हैं,",
+      "duration_sec": 2.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; thin smoke curls upward; grass and leaves sway in a soft breeze; everything else holds still. Hold about 2.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 26,
+      "narration_excerpt": "जबकि कई सिस्टम",
+      "duration_sec": 1.2,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; lights flicker softly; sparkles twinkle softly; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 27,
+      "narration_excerpt": "सुरक्षा के लिए बंद हो जाएंगे।",
+      "duration_sec": 2.0,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 28,
+      "narration_excerpt": "लेकिन असली समस्या बिजली का जाना नहीं,",
+      "duration_sec": 2.5,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; lights flicker softly; sparkles twinkle softly; everything else holds still. Hold about 2.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 29,
+      "narration_excerpt": "बल्कि उसे लगातार बनाए रखने वाले",
+      "duration_sec": 2.2,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 30,
+      "narration_excerpt": "इंसानों का न होना होगा।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 31,
+      "narration_excerpt": "अस्पतालों में मशीनें",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; lights flicker softly; sparkles twinkle softly; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 32,
+      "narration_excerpt": "कुछ समय तक चल सकती हैं।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 33,
+      "narration_excerpt": "शहरों में पानी की सप्लाई भी",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; water ripples gently; the plants grow a tiny bit; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 34,
+      "narration_excerpt": "कुछ वक्त जारी रह सकती है।",
+      "duration_sec": 1.7,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; clock hands tick forward slowly; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 35,
+      "narration_excerpt": "मगर जब मरम्मत, निगरानी",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 36,
+      "narration_excerpt": "और ईंधन की आपूर्ति बंद होगी,",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 37,
+      "narration_excerpt": "तो ये सुविधाएं",
+      "duration_sec": 1.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 38,
+      "narration_excerpt": "धीरे-धीरे ठप पड़ने लगेंगी।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; lights flicker softly; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 39,
+      "narration_excerpt": "हमने अपनी दुनिया को इतना व्यवस्थित बना लिया है",
+      "duration_sec": 3.1,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 3.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 40,
+      "narration_excerpt": "कि एक बटन दबाने पर रोशनी हो जाती है",
+      "duration_sec": 2.3,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; lights flicker softly; the character blinks and tilts the head very slightly; everything else holds still. Hold about 2.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 41,
+      "narration_excerpt": "और नल खोलने पर पानी आ जाता है।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 42,
+      "narration_excerpt": "लेकिन इन आसान सुविधाओं के पीछे",
+      "duration_sec": 2.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; lights flicker softly; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 43,
+      "narration_excerpt": "हजारों लोगों की मेहनत छिपी होती है।",
+      "duration_sec": 2.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the character blinks and tilts the head very slightly; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 44,
+      "narration_excerpt": "और अब…",
+      "duration_sec": 0.8,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 0.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 45,
+      "narration_excerpt": "उन सबकी जगह खाली है।",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; sparkles twinkle softly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 46,
+      "narration_excerpt": "अब सोचो, कुछ दिन बीत चुके हैं।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; calendar pages flip one by one; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 47,
+      "narration_excerpt": "सड़कों पर ट्रैफिक नहीं है।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; vehicles drift slowly along the road; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 48,
+      "narration_excerpt": "दुकानों के दरवाजे बंद हैं",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 49,
+      "narration_excerpt": "और ऊंची इमारतों की खिड़कियों में",
+      "duration_sec": 2.3,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 2.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 50,
+      "narration_excerpt": "रोशनी कम होती जा रही है।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; lights flicker softly; sparkles twinkle softly; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 51,
+      "narration_excerpt": "लेकिन शहर पूरी तरह निर्जीव नहीं होंगे।",
+      "duration_sec": 2.6,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; birds flap and glide a little; grass and leaves sway in a soft breeze; everything else holds still. Hold about 2.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 52,
+      "narration_excerpt": "कुत्ते और बिल्लियां अपने मालिकों के बिना भटक सकते हैं।",
+      "duration_sec": 3.5,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the walking figure keeps a gentle walking bob; everything else holds still. Hold about 3.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 53,
+      "narration_excerpt": "कुछ जानवर भोजन खोजने के लिए",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 54,
+      "narration_excerpt": "सड़कों और खाली इमारतों में पहुंच जाएंगे।",
+      "duration_sec": 2.7,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 2.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 55,
+      "narration_excerpt": "शहरों के आसपास रहने वाले पक्षियों",
+      "duration_sec": 2.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; birds flap and glide a little; water ripples gently; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 56,
+      "narration_excerpt": "और दूसरे जीवों को",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 57,
+      "narration_excerpt": "इंसानों की गैरमौजूदगी में",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; birds flap and glide a little; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 58,
+      "narration_excerpt": "नए अवसर मिल सकते हैं।",
+      "duration_sec": 1.5,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; birds flap and glide a little; everything else holds still. Hold about 1.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 59,
+      "narration_excerpt": "हालांकि, हर जानवर",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the walking figure keeps a gentle walking bob; the plants grow a tiny bit; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 60,
+      "narration_excerpt": "आसानी से जीवित नहीं रहेगा।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 61,
+      "narration_excerpt": "इंसानों पर निर्भर पालतू जानवरों को",
+      "duration_sec": 2.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 62,
+      "narration_excerpt": "भोजन और पानी की कमी का",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 63,
+      "narration_excerpt": "सामना करना पड़ सकता है।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 64,
+      "narration_excerpt": "कुछ जगहों पर घास",
+      "duration_sec": 1.3,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; grass and leaves sway in a soft breeze; everything else holds still. Hold about 1.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 65,
+      "narration_excerpt": "फुटपाथों की दरारों से बाहर निकलने लगेगी।",
+      "duration_sec": 2.7,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; everything else holds still. Hold about 2.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 66,
+      "narration_excerpt": "बीज हवा और बारिश के साथ",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; rain streaks fall gently; grass and leaves sway in a soft breeze; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 67,
+      "narration_excerpt": "खाली जमीन पर फैलेंगे।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 68,
+      "narration_excerpt": "लेकिन जंगल एक रात में",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 69,
+      "narration_excerpt": "शहरों को निगल नहीं जाएंगे।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 70,
+      "narration_excerpt": "प्रकृति को बड़े बदलाव लाने में",
+      "duration_sec": 2.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clock hands tick forward slowly; the plants grow a tiny bit; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 71,
+      "narration_excerpt": "समय लगेगा।",
+      "duration_sec": 0.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clock hands tick forward slowly; the plants grow a tiny bit; everything else holds still. Hold about 0.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 72,
+      "narration_excerpt": "और इस कहानी का अगला हिस्सा",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 73,
+      "narration_excerpt": "कहीं ज्यादा दिलचस्प है।",
+      "duration_sec": 1.7,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; sparkles twinkle softly; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 74,
+      "narration_excerpt": "इंसान के बिना सबसे बड़ी चुनौती",
+      "duration_sec": 2.1,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; water ripples gently; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 75,
+      "narration_excerpt": "होगी पानी।",
+      "duration_sec": 0.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clouds drift slowly; water ripples gently; everything else holds still. Hold about 0.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 76,
+      "narration_excerpt": "शहरों में पानी पहुंचाने के लिए",
+      "duration_sec": 2.1,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; water ripples gently; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 77,
+      "narration_excerpt": "पंप, पाइप, बिजली",
+      "duration_sec": 1.2,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 78,
+      "narration_excerpt": "और लगातार रखरखाव की जरूरत होती है।",
+      "duration_sec": 2.3,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 79,
+      "narration_excerpt": "जब ये सिस्टम खराब होने लगेंगे,",
+      "duration_sec": 2.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 80,
+      "narration_excerpt": "तो कुछ इमारतों के बेसमेंट",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 81,
+      "narration_excerpt": "और भूमिगत रास्तों में",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; water ripples gently; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 82,
+      "narration_excerpt": "पानी भर सकता है।",
+      "duration_sec": 1.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; water ripples gently; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 83,
+      "narration_excerpt": "जहां पंप काम करना बंद कर देंगे,",
+      "duration_sec": 2.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 84,
+      "narration_excerpt": "वहां बारिश और भूजल",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; rain streaks fall gently; clouds drift slowly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 85,
+      "narration_excerpt": "इमारतों को नुकसान पहुंचा सकते हैं।",
+      "duration_sec": 2.4,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; rain streaks fall gently; water ripples gently; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 86,
+      "narration_excerpt": "बिजली के बिना",
+      "duration_sec": 1.1,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; lights flicker softly; the plants grow a tiny bit; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 87,
+      "narration_excerpt": "कई आधुनिक सुविधाएं बेकार हो जाएंगी।",
+      "duration_sec": 2.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 88,
+      "narration_excerpt": "लिफ्ट रुक जाएंगी,",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 89,
+      "narration_excerpt": "संचार नेटवर्क धीरे-धीरे बंद हो सकते हैं",
+      "duration_sec": 2.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the raised hand waves slightly; everything else holds still. Hold about 2.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 90,
+      "narration_excerpt": "और ठंडा रखने की व्यवस्था खत्म होने से",
+      "duration_sec": 2.5,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 91,
+      "narration_excerpt": "गोदामों में रखा भोजन खराब होने लगेगा।",
+      "duration_sec": 2.5,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 2.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 92,
+      "narration_excerpt": "लेकिन क्या इसका मतलब है",
+      "duration_sec": 1.7,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; clouds drift slowly; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 93,
+      "narration_excerpt": "कि हमारी बनाई हर चीज मिट जाएगी?",
+      "duration_sec": 2.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the thought cloud bobs slightly; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 94,
+      "narration_excerpt": "नहीं।",
+      "duration_sec": 0.8,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 0.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 95,
+      "narration_excerpt": "पत्थर की इमारतें, कुछ पुल",
+      "duration_sec": 1.8,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; water ripples gently; everything else holds still. Hold about 1.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 96,
+      "narration_excerpt": "और विशाल संरचनाएं",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 97,
+      "narration_excerpt": "कई दशकों तक खड़ी रह सकती हैं।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; calendar pages flip one by one; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 98,
+      "narration_excerpt": "उनकी उम्र इस बात पर निर्भर करेगी",
+      "duration_sec": 2.2,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 99,
+      "narration_excerpt": "कि वे किस सामग्री से बनी हैं,",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 100,
+      "narration_excerpt": "मौसम कैसा है",
+      "duration_sec": 1.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; rain streaks fall gently; clouds drift slowly; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 101,
+      "narration_excerpt": "और पानी उन्हें कितना नुकसान पहुंचाता है।",
+      "duration_sec": 2.7,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; everything else holds still. Hold about 2.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 102,
+      "narration_excerpt": "यानी इंसानों के गायब होते ही",
+      "duration_sec": 2.0,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; sun rays pulse softly; everything else holds still. Hold about 2.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 103,
+      "narration_excerpt": "हमारी दुनिया खत्म नहीं होगी।",
+      "duration_sec": 2.0,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; birds flap and glide a little; everything else holds still. Hold about 2.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 104,
+      "narration_excerpt": "बल्कि हमारी बनाई दुनिया की",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 105,
+      "narration_excerpt": "देखभाल करने वाला कोई नहीं बचेगा।",
+      "duration_sec": 2.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 106,
+      "narration_excerpt": "अब कई साल गुजर चुके हैं।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; calendar pages flip one by one; the plants grow a tiny bit; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 107,
+      "narration_excerpt": "कुछ इलाकों में पेड़-पौधे",
+      "duration_sec": 1.8,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; vehicles drift slowly along the road; everything else holds still. Hold about 1.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 108,
+      "narration_excerpt": "खाली सड़कों और इमारतों के आसपास",
+      "duration_sec": 2.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; grass and leaves sway in a soft breeze; the plants grow a tiny bit; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 109,
+      "narration_excerpt": "फैलने लगे हैं।",
+      "duration_sec": 1.1,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; grass and leaves sway in a soft breeze; the plants grow a tiny bit; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 110,
+      "narration_excerpt": "बारिश, हवा, तापमान में बदलाव",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; rain streaks fall gently; grass and leaves sway in a soft breeze; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 111,
+      "narration_excerpt": "और जड़ों के असर से",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the plants grow a tiny bit; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 112,
+      "narration_excerpt": "सड़कों में दरारें बढ़ सकती हैं।",
+      "duration_sec": 2.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the plants grow a tiny bit; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 113,
+      "narration_excerpt": "लोहे में जंग लगेगी।",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 114,
+      "narration_excerpt": "लकड़ी सड़ेगी।",
+      "duration_sec": 1.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 115,
+      "narration_excerpt": "कई इमारतों की छतें",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 116,
+      "narration_excerpt": "और कमजोर हिस्से टूटने लगेंगे।",
+      "duration_sec": 2.1,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; grass and leaves sway in a soft breeze; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 117,
+      "narration_excerpt": "जहां पहले इंसान",
+      "duration_sec": 1.3,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 118,
+      "narration_excerpt": "हर पेड़ को काटकर",
+      "duration_sec": 1.3,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the plants grow a tiny bit; everything else holds still. Hold about 1.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 119,
+      "narration_excerpt": "जगह साफ करते थे,",
+      "duration_sec": 1.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 120,
+      "narration_excerpt": "वहां अब वनस्पति को",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; grass and leaves sway in a soft breeze; vehicles drift slowly along the road; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 121,
+      "narration_excerpt": "फैलने का मौका मिलेगा।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the plants grow a tiny bit; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 122,
+      "narration_excerpt": "कुछ जंगली जानवर उन इलाकों में लौट सकते हैं,",
+      "duration_sec": 2.8,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the walking figure keeps a gentle walking bob; everything else holds still. Hold about 2.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 123,
+      "narration_excerpt": "जहां पहले इंसानी गतिविधियों के कारण",
+      "duration_sec": 2.5,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; grass and leaves sway in a soft breeze; vehicles drift slowly along the road; everything else holds still. Hold about 2.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 124,
+      "narration_excerpt": "उनका रहना मुश्किल था।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 125,
+      "narration_excerpt": "लेकिन हर जगह घना जंगल नहीं उगेगा।",
+      "duration_sec": 2.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 126,
+      "narration_excerpt": "रेगिस्तान, बर्फीले इलाके",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the plants grow a tiny bit; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 127,
+      "narration_excerpt": "और प्राकृतिक रूप से घास के मैदान रहने वाले क्षेत्र",
+      "duration_sec": 3.3,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the raised hand waves slightly; birds flap and glide a little; everything else holds still. Hold about 3.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 128,
+      "narration_excerpt": "अपनी अलग पहचान बनाए रखेंगे।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 129,
+      "narration_excerpt": "धरती का भविष्य",
+      "duration_sec": 1.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; clouds drift slowly; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 130,
+      "narration_excerpt": "हर जगह एक जैसा नहीं होगा।",
+      "duration_sec": 1.7,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 131,
+      "narration_excerpt": "और यहां एक बड़ा सवाल पैदा होता है—",
+      "duration_sec": 2.2,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; clouds drift slowly; the character blinks and tilts the head very slightly; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 132,
+      "narration_excerpt": "क्या इंसान के गायब होने से",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clouds drift slowly; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 133,
+      "narration_excerpt": "प्रकृति को तुरंत फायदा होगा?",
+      "duration_sec": 2.0,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clock hands tick forward slowly; the plants grow a tiny bit; everything else holds still. Hold about 2.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 134,
+      "narration_excerpt": "कुछ मायनों में हां,",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 135,
+      "narration_excerpt": "क्योंकि शिकार, प्रदूषण",
+      "duration_sec": 1.7,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; thin smoke curls upward; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 136,
+      "narration_excerpt": "और जमीन पर मानवीय दबाव कम हो जाएंगे।",
+      "duration_sec": 2.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; grass and leaves sway in a soft breeze; the plants grow a tiny bit; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 137,
+      "narration_excerpt": "लेकिन इंसानों पर निर्भर कुछ जानवरों",
+      "duration_sec": 2.5,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 2.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 138,
+      "narration_excerpt": "और उन प्रजातियों के लिए स्थिति मुश्किल होगी,",
+      "duration_sec": 2.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the plants grow a tiny bit; everything else holds still. Hold about 2.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 139,
+      "narration_excerpt": "जिनका अस्तित्व हमारी देखभाल से जुड़ा है।",
+      "duration_sec": 2.7,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the plants grow a tiny bit; everything else holds still. Hold about 2.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 140,
+      "narration_excerpt": "प्रकृति की कहानी इतनी आसान नहीं है",
+      "duration_sec": 2.4,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 141,
+      "narration_excerpt": "कि इंसान के जाते ही",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the walking figure keeps a gentle walking bob; sun rays pulse softly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 142,
+      "narration_excerpt": "हर चीज बेहतर हो जाए।",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clouds drift slowly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 143,
+      "narration_excerpt": "हजारों साल बीत चुके हैं।",
+      "duration_sec": 1.7,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; sun rays pulse softly; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 144,
+      "narration_excerpt": "ज्यादातर आधुनिक इमारतें",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the plants grow a tiny bit; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 145,
+      "narration_excerpt": "टूट चुकी होंगी",
+      "duration_sec": 1.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; grass and leaves sway in a soft breeze; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 146,
+      "narration_excerpt": "या प्रकृति और मौसम से",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; rain streaks fall gently; grass and leaves sway in a soft breeze; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 147,
+      "narration_excerpt": "बहुत बदल गई होंगी।",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 148,
+      "narration_excerpt": "कुछ विशाल पत्थर की संरचनाएं",
+      "duration_sec": 2.0,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 2.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 149,
+      "narration_excerpt": "और जमीन के नीचे मौजूद चीजें",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 150,
+      "narration_excerpt": "इससे कहीं ज्यादा समय तक बच सकती हैं।",
+      "duration_sec": 2.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; calendar pages flip one by one; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 151,
+      "narration_excerpt": "प्लास्टिक के अवशेष,",
+      "duration_sec": 1.5,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 152,
+      "narration_excerpt": "कुछ धातुएं",
+      "duration_sec": 1.0,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 153,
+      "narration_excerpt": "और दूसरे कृत्रिम पदार्थ भी",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 154,
+      "narration_excerpt": "अलग-अलग रूपों में",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 155,
+      "narration_excerpt": "पर्यावरण में लंबे समय तक मौजूद रह सकते हैं।",
+      "duration_sec": 2.8,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 2.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 156,
+      "narration_excerpt": "यानी इंसान गायब हो जाए,",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; sparkles twinkle softly; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 157,
+      "narration_excerpt": "तब भी उसका बनाया हर निशान",
+      "duration_sec": 1.8,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 158,
+      "narration_excerpt": "तुरंत गायब नहीं होगा।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 159,
+      "narration_excerpt": "धरती पर इंसानों के बिना भी",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; water ripples gently; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 160,
+      "narration_excerpt": "जीवन चलता रहेगा।",
+      "duration_sec": 1.3,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; birds flap and glide a little; sun rays pulse softly; everything else holds still. Hold about 1.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 161,
+      "narration_excerpt": "जीव अपने वातावरण के अनुसार बदलते रहेंगे",
+      "duration_sec": 2.7,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; birds flap and glide a little; everything else holds still. Hold about 2.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 162,
+      "narration_excerpt": "और नई परिस्थितियों में",
+      "duration_sec": 1.7,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; sun rays pulse softly; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 163,
+      "narration_excerpt": "कुछ प्रजातियां फलेंगी-फूलेंगी,",
+      "duration_sec": 2.2,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; birds flap and glide a little; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 164,
+      "narration_excerpt": "जबकि दूसरी घट सकती हैं।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 165,
+      "narration_excerpt": "लेकिन हमें यह नहीं पता",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 166,
+      "narration_excerpt": "कि हजारों या लाखों साल बाद",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; clouds drift slowly; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 167,
+      "narration_excerpt": "धरती पर जीवन का स्वरूप",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 168,
+      "narration_excerpt": "बिल्कुल कैसा होगा।",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 169,
+      "narration_excerpt": "इतना लंबा भविष्य",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; rain streaks fall gently; sun rays pulse softly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 170,
+      "narration_excerpt": "कई प्राकृतिक बदलावों पर निर्भर करेगा।",
+      "duration_sec": 2.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clouds drift slowly; sun rays pulse softly; everything else holds still. Hold about 2.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 171,
+      "narration_excerpt": "अब एक बार फिर",
+      "duration_sec": 1.1,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; clouds drift slowly; the thought cloud bobs slightly; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 172,
+      "narration_excerpt": "अपनी दुनिया की कल्पना करो।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; clouds drift slowly; the thought cloud bobs slightly; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 173,
+      "narration_excerpt": "सुबह उठकर फोन देखने वाला कोई नहीं।",
+      "duration_sec": 2.3,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; everything else holds still. Hold about 2.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 174,
+      "narration_excerpt": "स्कूल जाने वाले बच्चे नहीं।",
+      "duration_sec": 1.9,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.9 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 175,
+      "narration_excerpt": "खेतों में काम करते किसान नहीं।",
+      "duration_sec": 2.1,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 176,
+      "narration_excerpt": "शहरों में दौड़ती गाड़ियां नहीं।",
+      "duration_sec": 2.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 177,
+      "narration_excerpt": "लेकिन सूरज फिर भी उगेगा।",
+      "duration_sec": 1.7,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; sun rays pulse softly; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 178,
+      "narration_excerpt": "बारिश फिर भी होगी।",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; rain streaks fall gently; clouds drift slowly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 179,
+      "narration_excerpt": "नदियां बहती रहेंगी",
+      "duration_sec": 1.5,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; water ripples gently; everything else holds still. Hold about 1.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 180,
+      "narration_excerpt": "और पेड़ बढ़ते रहेंगे।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the plants grow a tiny bit; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 181,
+      "narration_excerpt": "धरती को इंसानों की जरूरत नहीं है",
+      "duration_sec": 2.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 182,
+      "narration_excerpt": "ताकि वह एक ग्रह के रूप में मौजूद रह सके।",
+      "duration_sec": 2.5,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.5 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 183,
+      "narration_excerpt": "लेकिन इंसानों की बनाई दुनिया को",
+      "duration_sec": 2.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; the character blinks and tilts the head very slightly; everything else holds still. Hold about 2.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 184,
+      "narration_excerpt": "चलाए रखने के लिए",
+      "duration_sec": 1.3,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 185,
+      "narration_excerpt": "इंसानों की जरूरत जरूर है।",
+      "duration_sec": 1.8,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 186,
+      "narration_excerpt": "हम अक्सर सोचते हैं",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 187,
+      "narration_excerpt": "कि हम प्रकृति को नियंत्रित करते हैं।",
+      "duration_sec": 2.4,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; clouds drift slowly; sun rays pulse softly; everything else holds still. Hold about 2.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 188,
+      "narration_excerpt": "मगर हमारी सभ्यता",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 189,
+      "narration_excerpt": "बिजली, पानी, खेती, परिवहन",
+      "duration_sec": 1.7,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; water ripples gently; everything else holds still. Hold about 1.7 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 190,
+      "narration_excerpt": "और अनगिनत व्यवस्थाओं के",
+      "duration_sec": 1.8,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 191,
+      "narration_excerpt": "एक जटिल जाल पर टिकी है।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 192,
+      "narration_excerpt": "शायद इस कहानी का सबसे बड़ा रहस्य यह नहीं",
+      "duration_sec": 2.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 2.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 193,
+      "narration_excerpt": "कि इंसानों के बिना",
+      "duration_sec": 1.4,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 194,
+      "narration_excerpt": "धरती का क्या होगा…",
+      "duration_sec": 1.4,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; the plants grow a tiny bit; everything else holds still. Hold about 1.4 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 195,
+      "narration_excerpt": "बल्कि यह है कि",
+      "duration_sec": 1.1,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 196,
+      "narration_excerpt": "हम जिस दुनिया को अपना समझते हैं,",
+      "duration_sec": 2.1,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 2.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 197,
+      "narration_excerpt": "उसमें हमारा अस्तित्व",
+      "duration_sec": 1.6,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 198,
+      "narration_excerpt": "कितना नाजुक है।",
+      "duration_sec": 1.2,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the right; everything else holds still. Hold about 1.2 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 199,
+      "narration_excerpt": "और अब तुम बताओ,",
+      "duration_sec": 1.1,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.1 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 200,
+      "narration_excerpt": "अगर कल सुबह",
+      "duration_sec": 1.0,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; sun rays pulse softly; the sleeper breathes gently; everything else holds still. Hold about 1.0 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 201,
+      "narration_excerpt": "पूरी दुनिया से इंसान गायब हो जाएं,",
+      "duration_sec": 2.3,
+      "motion_prompt": "Very slow push-in of about 3 percent with a faint drift to the left; everything else holds still. Hold about 2.3 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 202,
+      "narration_excerpt": "तो तुम्हें सबसे पहले",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; clouds drift slowly; the thought cloud bobs slightly; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 203,
+      "narration_excerpt": "किस चीज की कमी महसूस होगी?",
+      "duration_sec": 1.8,
+      "motion_prompt": "Slow push-in of about 4 percent toward the subject; the raised hand waves slightly; clouds drift slowly; everything else holds still. Hold about 1.8 seconds, no camera shake, keep the flat 2D cartoon look."
+    },
+    {
+      "scene_id": 204,
+      "narration_excerpt": "कमेंट में जरूर बताना।",
+      "duration_sec": 1.6,
+      "motion_prompt": "Slow push-in of about 5 percent toward the subject; the character blinks and tilts the head very slightly; everything else holds still. Hold about 1.6 seconds, no camera shake, keep the flat 2D cartoon look."
+    }
+  ]
+}
